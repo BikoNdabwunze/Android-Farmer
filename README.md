@@ -7,7 +7,7 @@ This app was created as part of my Second Application Development class. It is p
 This app is made up of two parts. The Field and The Stock. It contains a table for both parts inside a database.
 
 ### Field
-In here the farmer adds all the fruits and vegetable he planted inside the app. He can see them in a list, edit them, delete them and add them to the dtock
+In here the farmer adds all the fruits and vegetable he planted inside the app. He can see them in a list, edit them, delete them and add them to the stock
 
 ### Stock
-In the stock, the farmer can keep track of all the crops he's picked. He can track ,update and delete them like the field, but thes crops have more propretie relate to their shipping, such as their price and expiry date.
+In the stock, the farmer can keep track of all the crops he's picked. He can track ,update and delete them like the field, but thes crops have more properties relate to their shipping, such as their price and expiry date.
